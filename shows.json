@@ -224,11 +224,19 @@
         "nostrlink": "https://primal.net/p/npub1r8l06leee9kjlam0slmky7h8j9zme9ca32erypgqtyu6t2gnhshs3jx5dk"
     },
     {
+        "title": "TFTC: A Bitcoin Podcast",
+        "imgsrc": "assets/img/tftc.jpg",
+        "description": "TFTC is a podcast hosted by Marty Bent about Bitcoin. Join Marty, Editor in Chief of 'the best newsletter in Bitcoin', as he sits down to discuss Bitcoin with interesting people.",
+        "fountainlink": "https://www.fountain.fm/show/yCqKYmmNlbMe0igItcGV",
+        "xlink": "https://x.com/TFTC21",
+        "nostrlink": "https://primal.net/p/npub1sk7mtp67zy7uex2f3dr5vdjynzpwu9dpc7q4f2c8cpjmguee6eeq56jraw"
+    },
+    {
         "title": "The Bitcoin Boomer Show",
         "imgsrc": "assets/img/btcboom.jpg",
         "description": "Gary Leland is the original Bitcoin Boomer and wants to help educate everyone about Bitcoin. Join Gary as he brings you great interviews and information about Bitcoin.",
         "fountainlink": "https://www.fountain.fm/show/yCqKYmmNlbMe0igItcGV",
-        "xlink": " https://x.com/GaryLeland",
+        "xlink": "https://x.com/GaryLeland",
         "nostrlink": "https://primal.net/p/npub1vxfg5aqvj3juvzflry2t9m8fn7u4r0dttjtv099ntn2l2e0h9n3qzxhunh"
     },
     {
