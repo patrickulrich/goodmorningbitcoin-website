@@ -36,8 +36,7 @@
         </nav>
                 <!-- Shows Section-->
     <section class="projects-section bg-light" id="shows">                 
-        <div class="container px-4 px-lg-5">
-            <h1>Our Shows</h1>
+        <div class="container bg-black px-lg-0">
             <div id="shows-container">
                 <!-- Shows will be dynamically inserted here -->
             </div>
@@ -53,7 +52,7 @@
             
                     data.forEach(show => {
                         const showRow = document.createElement('div');
-                        showRow.className = 'row bg-black gx-0 align-items-center mb-4'; // Full black background
+                        showRow.className = 'row bg-black gx-0 align-items-center'; // Full black background
             
                         const imgColClass = isLeft ? 'col-md-6' : 'col-md-6 order-md-2';
                         const contentColClass = isLeft ? 'col-md-6 d-flex flex-column align-items-center justify-content-center text-center' : 'col-md-6 d-flex flex-column align-items-center justify-content-center text-center order-md-1';
