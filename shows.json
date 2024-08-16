@@ -92,7 +92,7 @@
         "imgsrc": "assets/img/btcsess.jpg",
         "description": "Get your dose of Bitcoin with weekly news roundups and \"Why Are We Bullish\" panel shows featuring Bitcoiners from around the world!",
         "fountainlink": "https://www.fountain.fm/show/mhtu0LwkIPAuUuHI9W4M",
-        "xlink": " https://x.com/BTCsessions",
+        "xlink": "https://x.com/BTCsessions",
         "nostrlink": "https://primal.net/p/npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8"
     },
     {
@@ -108,7 +108,7 @@
         "imgsrc": "assets/img/bib.jpg",
         "description": "A podcast about the people who bring Bitcoin to life hosted by @bitkite.",
         "fountainlink": "https://www.fountain.fm/show/TSKb1qFjqC9VAnAAl5AN",
-        "xlink": " https://x.com/buildersinbtc",
+        "xlink": "https://x.com/buildersinbtc",
         "nostrlink": ""
     },
     {
@@ -116,7 +116,7 @@
         "imgsrc": "assets/img/business.jpg",
         "description": "The Business Bitcoinization Show will introduce you to executives and entrepreneurs who are using Bitcoin - the hardest money on planet earth - to improve their lives and their businesses. What's with the name? It's a play on the term, \"Hyperbitcoinization,\" which is a word used to describe the eventual, rapid adoption of Bitcoin as other currencies continue to weaken in relation to it. Hear how other business owners are using Bitcoin and begin using it yourself so that, when we get to the other side of hyperbitcoinization, you and your business will be prepared to take advantage of the opportunities that will arise.",
         "fountainlink": "https://www.fountain.fm/show/tbEGLAo7hZrzBTv1OXW0",
-        "xlink": " https://x.com/joshuafriedeman",
+        "xlink": "https://x.com/joshuafriedeman",
         "nostrlink": "https://primal.net/p/npub18ye3z2kps2hm8jplmdd5jfpl69enf337rx6eqykmznytv65jkcgqaaxwku"
     },
     {
@@ -124,7 +124,7 @@
         "imgsrc": "assets/img/cd.jpg",
         "description": "An interactive show about bitcoin and freedom tech. Funded by our audience. No ads or sponsors.",
         "fountainlink": "https://www.fountain.fm/show/p8WM5xdhPOB2YrKmP1Vy",
-        "xlink": " https://x.com/citadeldispatch",
+        "xlink": "https://x.com/citadeldispatch",
         "nostrlink": "https://primal.net/p/npub1cpem4gceylcr56ym4nx7dt6g0caadlu8dmvuluhrqfvymdgsrgtsgdq62p"
     },
     {
@@ -132,7 +132,7 @@
         "imgsrc": "assets/img/ctl.jpg",
         "description": "Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology. The podcast will also be an ongoing experiment of sorts, leveraging the latest developments in the broader ecosystem, highlighting and implementing solutions that foster censorship-resistant communication and new content monetization models. Join us in discovering the many possibilities that Bitcoin brings!",
         "fountainlink": "https://www.fountain.fm/show/zAsc5KR4f3iAvaE9raGk",
-        "xlink": " https://x.com/johnkvallis",
+        "xlink": "https://x.com/johnkvallis",
         "nostrlink": "https://primal.net/p/npub1cqm6dztalp4l6n04f9k20c333xftgangjla337736dr6faz9na0qf2hjec"
     },
     {
@@ -140,7 +140,7 @@
         "imgsrc": "assets/img/db.jpg",
         "description": "Bitcoin Origin Stories podcast: Listen to the genesis story of Bitcoiner's from all across the world telling the tale of how they discovered Bitcoin, took the orange pill, fell down the rabbit hole, and how this experience changed them - often for the better! How did you Discover Bitcoin?",
         "fountainlink": "https://www.fountain.fm/show/jTsRqmf7XyzBhD0qifAr",
-        "xlink": " https://x.com/discoveringbtc",
+        "xlink": "https://x.com/discoveringbtc",
         "nostrlink": "https://primal.net/p/npub1a2sxw99vjpd22kpcvqu3u9s7m3agz56eklp7nwdjqtq9tzh0h6kqm4fpw3"
     },
     {
@@ -148,7 +148,7 @@
         "imgsrc": "assets/img/hell.jpg",
         "description": "A weekly podcast from two Bitcoin enthusiasts. Each week Casey and Erin discuss a different aspect of Bitcoin's technology, culture, and vibe.",
         "fountainlink": "https://www.fountain.fm/show/W8pjfavWchv8diXjikgC",
-        "xlink": " https://x.com/hellmoneypod",
+        "xlink": "https://x.com/hellmoneypod",
         "nostrlink": ""
     },
     {
@@ -180,7 +180,7 @@
         "imgsrc": "assets/img/pu.jpg",
         "description": "This is a Bitcoin Pleb YouTube show/Podcast covering weekly events in and around the bitcoin space. You'll find entertainment as well as signal here. We cover news, altcoin disasters and we bring special guests on for interviews and discussions on major topics. Come join us as we dive down the bitcoin rabbit hole.",
         "fountainlink": "https://www.fountain.fm/show/GOHtIiyv2M3WwZNEILO0",
-        "xlink": " https://x.com/PlebUnderground",
+        "xlink": "https://x.com/PlebUnderground",
         "nostrlink": "https://primal.net/p/npub109vfayn7595xzzxj5wd7kzgh5pygvf76cl72zmh8mqdvv8hdvrssme9kfa"
     },
     {
@@ -196,7 +196,7 @@
         "imgsrc": "assets/img/pod256.jpg",
         "description": "A weekly Bitcoin podcast focused on mining, energy, and proof-of-work - hosted by Rod @bitkite and Econoalchemist.",
         "fountainlink": "https://www.fountain.fm/show/e3z0jbyPzrtBa9bmFXUV",
-        "xlink": " https://x.com/pod256",
+        "xlink": "https://x.com/pod256",
         "nostrlink": "https://primal.net/p/npub1p0d256yljvn3pl82gpkmdyfqlxcmu6px63msrpmuauzha8yq4eeqprfpqe"
     },
     {
@@ -204,7 +204,15 @@
         "imgsrc": "assets/img/po.jpg",
         "description": "Satoshi opened a portal into cyberspace. We're going through it. Join us.",
         "fountainlink": "https://www.fountain.fm/show/ICeFjSvGdkLo399kjYGY",
-        "xlink": " https://x.com/PortalOrange21",
+        "xlink": "https://x.com/PortalOrange21",
+        "nostrlink": ""
+    },
+    {
+        "title": "Rock Paper Bitcoin",
+        "imgsrc": "assets/img/rpb.png",
+        "description": "₿usiness Cat and Fundamentals are two bitcoiners from Pennsylvania who talk about living on a bitcoin standard and finding signal in a noisy world",
+        "fountainlink": "https://fountain.fm/show/EUdSfx8792GOAPMKXJwM",
+        "xlink": "https://x.com/RokPaperBitcoin",
         "nostrlink": ""
     },
     {
@@ -212,7 +220,7 @@
         "imgsrc": "assets/img/sb.jpg",
         "description": "A Daily Bitcoin Show that keeps you up-to-date with the peaceful Bitcoin revolution.",
         "fountainlink": "https://www.fountain.fm/show/DlFELqCMl48pwxCrmaJR",
-        "xlink": " https://x.com/SimplyBitcoinTV",
+        "xlink": "https://x.com/SimplyBitcoinTV",
         "nostrlink": "https://primal.net/p/npub1vzjukpr2vrxqg2m9q3a996gpzx8qktg82vnl9jlxp7a9yawnwxfsqnx9gc"
     },
     {
@@ -220,7 +228,7 @@
         "imgsrc": "assets/img/slp.jpg",
         "description": "Join Stephan as he interviews the sharpest economic and technical minds in Bitcoin & Austrian Economics to help you understand how money is changing and evolving. This is one of the leading podcasts in the space, and listening to this show is one of the fastest ways to learn and get up to speed on Bitcoin.",
         "fountainlink": "https://www.fountain.fm/show/CouHo5y4FLVhbHlg6pqA",
-        "xlink": " https://x.com/stephanlivera",
+        "xlink": "https://x.com/stephanlivera",
         "nostrlink": "https://primal.net/p/npub1r8l06leee9kjlam0slmky7h8j9zme9ca32erypgqtyu6t2gnhshs3jx5dk"
     },
     {
@@ -244,7 +252,7 @@
         "imgsrc": "assets/img/tov.jpg",
         "description": "A Bitcoin podcast by Cody Ellingham exploring the impacts of Bitcoin thinking on the world of art, culture, and philosophy. Made in New Zealand.",
         "fountainlink": "https://www.fountain.fm/show/yeyKUxKjAw151iZAQhcw",
-        "xlink": " https://x.com/TTOVpodcast",
+        "xlink": "https://x.com/TTOVpodcast",
         "nostrlink": ""
     },
     {
